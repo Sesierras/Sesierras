@@ -136,7 +136,7 @@ print(astral_card(name))
   </tr>
 </table> 
 <p align="center">
-  <a href="#"><img src="./assets//output-onlinegiftools.gif" width="300" alt="Favicon-Sierra" style="display:block; margin:0 auto; cursor:pointer;" /></a>
+  <a href="#"><img src="./assets/ezgif.com-gif-maker.gif" width="300" alt="Favicon-Sierra" style="display:block; margin:0 auto; cursor:pointer;" /></a>
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A637E&height=120&section=footer&animation=twinkling"/>
  <h5 align="center">
