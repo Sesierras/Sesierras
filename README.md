@@ -1,38 +1,37 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/fXtFLN5VpWqMUt8LLG/giphy.gif" width="150">
-</p>
+<h1 align="center">Hi 👋, I'm Sierra</h1>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=C1FFF6&center=true&width=435&lines=Hi+there%2C+I'm+Sierra;Full-Stack+Developer;Data+Analyst;Always+learning+things" alt="Typing SVG" /></a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
 
 
+
+
+
+
+
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&color=C1FFF6&center=true&width=435&vCenter=true&lines=Hi+there%2C+I'm+Sierra;%0AFull-Stack+Developer;%0AData+Analyst;%0APythonista;%0AData+Science+Enthusiast;%0AArt+Lover;%0ABiologist;%0AOpen+source+enthusiast;%0AIntroverted;%0AVegetarian;%0ADog+lover;%0ALinux+enthusiast;%0ACourse+fanatic;%0APhilosophy+lover;%0ABotanist;%0APlant+lord;%0A" alt="Typing SVG" /></a>
+</div>
+
 <h3 align="center">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/abdellahslimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdellahslimani" height="30" width="40" /></a>
-<a href="https://dev.to/abdellahslimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdellahslimani" height="30" width="40" /></a>
-<a href="https://twitter.com/abdalahslimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdalahslimani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdellahslimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdellahslimani" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16791905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16791905" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdellahslimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdellahslimani" height="30" width="40" /></a>
-</p>
+
 <p align='center'>
 <a href="https://www.linkedin.com/in/enderson-fraz%C3%A3o-121b62175/"><img height="30" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank">
-   </a>
-<a href="https://twitter.com/enderson_frazao"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" title="Twitter" alt="Twitter" target="_blank">
-   </a>
-<a href="https://www.youtube.com/channel/UCW8eeyFBvVALq-s1Xnuy1KQ"><img height="30" src="https://img.icons8.com/doodle/512/youtube-play--v2.png" title="Youtube" alt="Youtube" target="_blank">
-<a href="https://www.twitch.tv/enderfpss"><img height="30" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" title="Twitch" alt="Twitch" target="_blank">
-   </a>
-<a href="https://steamcommunity.com/id/endersonfrazao"><img height="30" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" title="Steam" alt="Steam" target="_blank">
    </a>
 <a href="https://discord.gg/nHGW5g3q"><img alt="Discord" title="Discord" height="30" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" target="_blank">
       </a>
 <a href="https://open.spotify.com/user/2fulyxp96vaz0s9w75cvxubjp"><img height="30" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" title="Spotify" target="_blank">
    </a>
-<a href="https://api.whatsapp.com/send?phone=5569992201666" alt="WhatsApp-EndersonF" title="WhatsApp" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=573193197976" alt="WhatsApp-EndersonF" title="WhatsApp" target="_blank">
       <img height="30" src="https://user-images.githubusercontent.com/28950541/147156845-9db3d6e5-994c-4287-9d9a-43f999588ef2.png">
    </a>
+   
+   
+   
+
 
  </p>
  
@@ -67,62 +66,32 @@ Estou sempre empenhado e buscando novos conhecimentos e evolução constante ;)
 * **Universidade**: Insituto Federal de Rondônia
 * **Graduação**: Análise e Desenvolvimento de Sistemas
 
-<img align= "right" alt="GIF" src="https://media1.giphy.com/media/HoffxyN8ghVuw/giphy.gif?cid=ecf05e47asen0tpup1ivtvw7cr415qgufh1269blh2poud6t&rid=giphy.gif&ct=g" width="510" height="610" />
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <div style="text-align: center;">
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
  
 **<h2> Como me encontrar </h2>** 
-- 💼 Você é recrutador? Estou disponível no <a href="mailto:enderson.frazao7@gmail.com?subject=Oiii%20again" target="blank">
+- 💼 Você é recrutador? Estou disponível no <a href="mailto:sesierras@unal.edu.co?subject=Oiii%20again" target="blank">
    <img align="center" alt="endersonf" height="30" width="30" src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/000000/external-gmail-social-media-justicon-lineal-color-justicon.png">
   </a>
 
-**<h2> Minhas experiências </h2>**
-- Trabalhei com desenvolvimento Blockchain, onde eu repassava aos superiores o andamentos da atividades, quais eram meus planos para
-as atividades e se houve alguma problema e logo alinhava as atividades com as equipes. Durante o estágio foi utilizado as metodologias
-ágeis Scrum e Kanban. Estudei pela plataforma Alura para desenvolver as atividades que eram passadas. No decorrer do estágio trabalhei
-com algumas linguagens de programação e algumas ferramentas, como por exemplo: JavaScript, NodeJS, Blockchain, SQL e NoSQL. Essas
-ferramentas foram usadas para o desenvolvimento de APIs na Blockchain e também foi utilizado Git/Github para o versionamento dos projetos
-que eram passados como desafios.
-- Fui estagiário no hospital Unimed Porto Velho, Rondônia, Brasil. O que eu fazia de interessante? Prestava suporte em geral. Como por exemplo, suporte para funcionários, suporte nos computadores, suporte nos sistemas. Fiquei por um período de 7 meses.
+![snake gif](https://github.com/sesierras/sesierras/blob/output/github-contribution-grid-snake.svg)
 
-**<h2> Linguagens:</h2>**
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-**<h2>Frameworks:</h2>**
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="60" src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg'></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
-**<h2>Banco de dados:</h2>**
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
-
-**<h2>Outros:</h2>**    
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-**<h2>Minhas estatísticas</h2>**
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=EndersonF&&show_icons=true&theme=radical" alt="EndersonF"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sesierras&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="sesierras" width="350"/>
 </p>
-
-![snake gif](https://github.com/Sesierras/Sesierras/blob/output/github-contribution-grid-snake.svg)
-
-⭐️ From [@Enderson Frazão](https://github.com/EndersonF)
-
- 
-
- 
- 
- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sesierras&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="ValentinaRippe" style="border:0"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sesierras&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" width="300" style="border:0"/> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sesierras&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="sesierras" width="350"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sesierras&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="sesierras" width="350"/>
+</p> 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/fXtFLN5VpWqMUt8LLG/giphy.gif" width="150">
+</p>
 
 
