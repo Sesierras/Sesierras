@@ -1,18 +1,17 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
-</div>
 <h1 align="center">Hi 👋, I'm Sierra</h1>
 
 
 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+</div>
 
-
-
+<br> </br>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&color=C1FFF6&center=true&width=435&vCenter=true&lines=Hi+there%2C+I'm+Sierra;%0AFull-Stack+Developer;%0AData+Analyst;%0APythonista;%0AData+Science+Enthusiast;%0AArt+Lover;%0ABiologist;%0AOpen+source+enthusiast;%0AIntroverted;%0AVegetarian;%0ADog+lover;%0ALinux+enthusiast;%0ACourse+fanatic;%0APhilosophy+lover;%0ABotanist;%0APlant+lord;%0A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&color=C1FFF6&center=true&width=435&vCenter=true&lines=Hi+there%2C+I'm+Sierra;%0AFull-Stack+Developer;%0AData+Analyst;%0AData+Science+Enthusiast;%0AArt+Lover;%0ABiologist;%0AOpen+source+enthusiast;%0AIntroverted;%0AVegetarian;%0ADog+lover;%0ALinux+enthusiast;%0ACourse+fanatic;%0APhilosophy+lover;%0ABotanist;%0APlant+lord;%0A" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="center">Connect with me:</h3>
@@ -20,58 +19,60 @@
 
   
 <p align='center'>
-<a href="https://www.linkedin.com/in/sesierras"><img height="30" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank">
+<a href="https://www.linkedin.com/in/sesierras"><img height="40" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank">
    </a>
-  <a href="https://discord.gg/nHGW5g3q"><img alt="Discord" title="Discord" height="30" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" target="_blank">
-      </a>
-<a href="https://open.spotify.com/user/2fulyxp96vaz0s9w75cvxubjp"><img height="30" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" title="Spotify" target="_blank">
+<a href="https://open.spotify.com/user/2147jkds6pjf5qdcd3dm7qika?si=0696ed7949fc40fe"><img height="40" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" title="Spotify-Sesierras" target="_blank">
    </a>
-  <a href=""><img alt="gmail" title="Gmail" height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank">
-      </a>
-  <a href="mailto:sesierras@unal.edu.co"><img alt="gmail" title="Gmail" height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank">
+  <a href="mailto:sesierras@unal.edu.co"><img alt="gmail-Sesierras" title="Gmail" height="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank">
   </a>
-
-<a href="https://api.whatsapp.com/send?phone=573193197976" alt="WhatsApp-EndersonF" title="WhatsApp" target="_blank">
-      <img height="30" src="https://user-images.githubusercontent.com/28950541/147156845-9db3d6e5-994c-4287-9d9a-43f999588ef2.png">
+<a href="https://api.whatsapp.com/send?phone=573193197976" alt="WhatsApp-Sesierras" title="WhatsApp" target="_blank">
+      <img height="40" src="https://user-images.githubusercontent.com/28950541/147156845-9db3d6e5-994c-4287-9d9a-43f999588ef2.png">
    </a>
    
-   
-   
-  
-
-
  </p>
- 
- <div align="center">
-<h3> 💻 Desenvolvedor Front-end | ReactJS | NextJS | TypeScript | JavaScript | 🛸 Brasil </h3>
+<div align="center">
+<h3> ✌ Full stack Developer | 👾 UX/UI Enthusiast | 🐸 Colombia </h3>
 </div>
- <h5 align="center">
-   <i>✞ Just making my castle with small pebbles</i>
+<h5 align="center">
+   <i>🤖 "Programming can be addictive" -Bob Carr</i>
   </h5>
-  
+<div align="center">
+  <p>🔬 Biologist | 🌿 Botanist | 🌄 Lover of nature | 🧠 Philosophy Enthusiast</p>
+</div>
 
 
 <br />
 
-**<h2> Informações públicas </h2>**
+```python
+# Public Information
+print("<h2> Public Information </h2>\n")
+print("Check out my portfolio!\n")
 
-Acesse meu [portfólio](https://enderson-portfolio.vercel.app/)!
+# Personal Information
+name = "Sierra Sebastian"
+age =  f(x) = 3x^3 + 2x^2 - 5x + 4
+location = "Bogota  - DC, COL"
+university = "National University of Colombia"
+degree = "Biology & Chemestry"
 
-Sou um apaixonado por códigos, inovações tecnológicas e muito café.
+# Skills
+skills = ["ReactJS", "NextJS", "NodeJS", "JavaScript", "TypeScript", "MySQL", "HTML", "CSS", "Git", "GitHub", "MongoDB"]
+print(f"With a degree in {degree}, I am focused on Frontend development, with experience in: {', '.join(skills)}.\n")
 
-Formado em Análise e Desenvolvimento de Sistemas, sou focado em desenvolvimento Frontend, com experiência em: ReactJS, NextJS, NodeJS,
-JavaScript, TypeScript, MySQL, HTML, CSS, Git, GitHub e Blockchain.
+# Goals
+print("I am always committed and seeking new knowledge and constant growth ;)")
 
+# Joke
+print("\nWhy was the computer cold? It left its Windows open!")
 
-Estou sempre empenhado e buscando novos conhecimentos e evolução constante ;)
-
-**<h2> Informações detalhadas </h2>**
-
-* **Nome**: Enderson Frazão Barreto
-* **Idade**: 24
-* **Moro em**: Porto Velho - RO, Brasil
-* **Universidade**: Insituto Federal de Rondônia
-* **Graduação**: Análise e Desenvolvimento de Sistemas
+# Astral Card
+def astral_card(name):
+    from random import randint
+    traits = ["courageous", "creative", "adventurous", "intuitive", "generous", "compassionate", "romantic", "optimistic", "reliable", "charismatic"]
+    return f"{name}'s astral card shows that they are a {traits[randint(0, 9)]} person."
+    
+print(astral_card(name))
+```
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -96,9 +97,16 @@ Estou sempre empenhado e buscando novos conhecimentos e evolução constante ;)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sesierras&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="sesierras" width="350"/>
 </p> 
+    
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&color=white)
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/fXtFLN5VpWqMUt8LLG/giphy.gif" width="150">
+
+
+  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Quote">
 </p>
-
-
+  
