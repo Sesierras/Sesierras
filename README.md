@@ -50,7 +50,7 @@
 
 <br />
 <div style="display: flex; align-items: center;">
-  <img src="./assets/avatar.6782d1566507d9b0f287.png" width="500" align='left' margin-left="1300px" alt="Avatar-Sierra">
+  <img src="./assets/avatar.6782d1566507d9b0f287.png" width="500" align='left' margin-left="13px" alt="Avatar-Sierra">
 </div>
 
 
