@@ -1,8 +1,21 @@
-![](https://komarev.com/ghpvc/?username=EndersonF&style=flat-plastic&color=white)
+<p align="center">
+  <img src="https://media.giphy.com/media/fXtFLN5VpWqMUt8LLG/giphy.gif" width="150">
+</p>
+
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=CC11FFF6&center=true&width=435&lines=Hi+there%2C+I'm+Enderson;Front-end+Developer;Systems+Analyst;Always+learning+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=C1FFF6&center=true&width=435&lines=Hi+there%2C+I'm+Sierra;Full-Stack+Developer;Data+Analyst;Always+learning+things" alt="Typing SVG" /></a>
 </div>
 
+
+<h3 align="center">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/abdellahslimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdellahslimani" height="30" width="40" /></a>
+<a href="https://dev.to/abdellahslimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdellahslimani" height="30" width="40" /></a>
+<a href="https://twitter.com/abdalahslimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdalahslimani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdellahslimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdellahslimani" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16791905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16791905" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abdellahslimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdellahslimani" height="30" width="40" /></a>
+</p>
 <p align='center'>
 <a href="https://www.linkedin.com/in/enderson-fraz%C3%A3o-121b62175/"><img height="30" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank">
    </a>
@@ -20,6 +33,7 @@
 <a href="https://api.whatsapp.com/send?phone=5569992201666" alt="WhatsApp-EndersonF" title="WhatsApp" target="_blank">
       <img height="30" src="https://user-images.githubusercontent.com/28950541/147156845-9db3d6e5-994c-4287-9d9a-43f999588ef2.png">
    </a>
+
  </p>
  
  <div align="center">
@@ -97,6 +111,18 @@ que eram passados como desafios.
   </a>
 </p>
 
-![snake gif](https://github.com/EndersonF/EndersonF/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Sesierras/Sesierras/blob/output/github-contribution-grid-snake.svg)
 
 ⭐️ From [@Enderson Frazão](https://github.com/EndersonF)
+
+ 
+
+ 
+ 
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sesierras&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="ValentinaRippe" style="border:0"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sesierras&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" width="300" style="border:0"/> 
+</p>
+
+
+
