@@ -7,7 +7,7 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" style="margin-right: 80px; margin-bottom: 70px; margin-left: 100px;">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" style="margin-right: 80px; margin-bottom: 70px; margin-left: 100px;">
     <div style="position: relative;">
       <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&color=C1FFF6&center=true&width=435&vCenter=true&lines=Hi+there%2C+I'm+Sierra;%0AFull-Stack+Developer;%0AData+Analyst;%0AData+Science+Enthusiast;%0AArt+Lover;%0ABiologist;%0AOpen+source+enthusiast;%0AIntroverted;%0AVegetarian;%0ADog+lover;%0ALinux+enthusiast;%0ACourse+fanatic;%0APhilosophy+lover;%0ABotanist;%0APlant+lord;%0A;%0AFeminist" alt="Typing SVG" style="position: absolute; top: 50%; left: 100px; color: blue;">
     </div>
@@ -138,9 +138,11 @@ print(astral_card(name))
     </td>
   </tr>
 </table> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A637E&height=120&section=footer&animation=twinkling"/>
  <h5 align="center">
       <i>🤖 "Programming can be addictive" -Bob Carr</i>
-    </h5
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A637E&height=120&section=footer&animation=twinkling"/>
+ </h5>
+
+
+
     
- ![Texto alternativo de la imagen](./assets/avatar.6782d1566507d9b0f287.png)
