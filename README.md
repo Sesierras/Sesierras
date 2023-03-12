@@ -95,16 +95,49 @@ print(astral_card(name))
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sesierras&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="sesierras" width="415"/>
 </div>
 
- <h3 align="center">Quotes & Music</h3>
+ <h3 align="center">Quotes & Visitors</h3>
+<table align="center">
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Quote"> 
+        <br/>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <p><b><h3>Visitors Count</h3></b></p>
+        <p><img align="center" src="https://profile-counter.glitch.me/{Sesierras}/count.svg" /></p>
+      </div>
+    </td>
+  </tr>
+</table>
 
- <div align="center">
-  <p><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Quote"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=2147jkds6pjf5qdcd3dm7qika&redirect=true" alt="Spotify now playing banner" style="max-width: 100%; height: auto;"></p>
-</div>
-<br>
-<div align="center">
-  <p><b><h3>Visitors Count</h3></b></p>
-  <p><img align="center" src="https://profile-counter.glitch.me/{Sesierras}/count.svg" /></p>
-</div>
-<br>
+    
+
+    
+    
+    
+ <h3 align="center">Hobbies</h3>
+<table align="center">
+  <tr>
+    <td>
+      <div align="center">
+       <img src="https://media.giphy.com/media/fXtFLN5VpWqMUt8LLG/giphy.gif" width="500">
+        <br/>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://spotify-github-profile.vercel.app/api/view?uid=31b232goahz27xcmgenhl2eqfbcy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31b232goahz27xcmgenhl2eqfbcy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile"></a>
+        <br>
+        <a href="https://GitHub.com/sesierras/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built with love badge"></a>
+      </div>
+    </td>
+  </tr>
+</table> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A637E&height=120&section=footer&animation=twinkling"/>
+    
+    
+    
 
