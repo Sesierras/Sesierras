@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sierra</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
+<h1 align="center">Hi 👋, I'm Sierra</h1>
 
 
 
@@ -18,10 +18,11 @@
 <h3 align="center">Connect with me:</h3>
 <p align="left">
 
+  
 <p align='center'>
-<a href="https://www.linkedin.com/in/enderson-fraz%C3%A3o-121b62175/"><img height="30" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank">
+<a href="[https://www.linkedin.com/in/enderson-fraz%C3%A3o-121b62175/](https://www.linkedin.com/in/sesierras/)"><img height="30" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank">
    </a>
-<a href="https://discord.gg/nHGW5g3q"><img alt="Discord" title="Discord" height="30" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" target="_blank">
+  <a href="https://discord.gg/nHGW5g3q"><img alt="Discord" title="Discord" height="30" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" target="_blank">
       </a>
 <a href="https://open.spotify.com/user/2fulyxp96vaz0s9w75cvxubjp"><img height="30" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" title="Spotify" target="_blank">
    </a>
@@ -31,6 +32,7 @@
    
    
    
+  
 
 
  </p>
