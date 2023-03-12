@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff1a4&height=120&section=header"/>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Quote">
 </p>
@@ -100,4 +102,4 @@ print(astral_card(name))
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=2147jkds6pjf5qdcd3dm7qika&redirect=true" alt="Spotify now playing banner" style="max-width: 100%; height: auto;">
   </a>
 </div>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff1a4&height=120&section=footer"/>
