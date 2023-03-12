@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=EndersonF&style=flat-plastic&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=EndersonF&style=flat-plastic&color=white)
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=1000&color=CC11FFF6&center=true&width=435&lines=Hi+there%2C+I'm+Enderson;Front-end+Developer;Systems+Analyst;Always+learning+things" alt="Typing SVG" /></a>
 </div>
