@@ -1,10 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A637E&height=120&section=header&animation=twinkling"/>
 <h1 align="center">Hi 👋, I'm Sierra</h1>
 
-
-
-
-
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" style="margin-right: 80px; margin-bottom: 70px; margin-left: 100px;">
@@ -139,10 +135,14 @@ print(astral_card(name))
     </td>
   </tr>
 </table> 
+<p align="center">
+  <a href="#"><img src="./assets/Logo design.png" width="300" alt="Favicon-Sierra" style="display:block; margin:0 auto; cursor:pointer;" /></a>
+</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A637E&height=120&section=footer&animation=twinkling"/>
  <h5 align="center">
       <i>🤖 "Programming can be addictive" -Bob Carr</i>
  </h5>
+
 
 
 
