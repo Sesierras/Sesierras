@@ -20,12 +20,17 @@
 
   
 <p align='center'>
-<a href="[https://www.linkedin.com/in/enderson-fraz%C3%A3o-121b62175/](https://www.linkedin.com/in/sesierras/)"><img height="30" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank">
+<a href="https://www.linkedin.com/in/sesierras"><img height="30" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank">
    </a>
   <a href="https://discord.gg/nHGW5g3q"><img alt="Discord" title="Discord" height="30" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" target="_blank">
       </a>
 <a href="https://open.spotify.com/user/2fulyxp96vaz0s9w75cvxubjp"><img height="30" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" title="Spotify" target="_blank">
    </a>
+  <a href=""><img alt="gmail" title="Gmail" height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank">
+      </a>
+  <a href="mailto:sesierras@unal.edu.co"><img alt="gmail" title="Gmail" height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank">
+  </a>
+
 <a href="https://api.whatsapp.com/send?phone=573193197976" alt="WhatsApp-EndersonF" title="WhatsApp" target="_blank">
       <img height="30" src="https://user-images.githubusercontent.com/28950541/147156845-9db3d6e5-994c-4287-9d9a-43f999588ef2.png">
    </a>
