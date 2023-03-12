@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff1a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A637E&height=120&section=header&animation=twinkling"/>
 <h1 align="center">Hi 👋, I'm Sierra</h1>
 
 
@@ -107,4 +107,4 @@ print(astral_card(name))
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Quote">
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff1a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A637E&height=120&section=footer&animation=twinkling"/>
