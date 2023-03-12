@@ -49,7 +49,7 @@
 
 
 <br />
-  <img src="./assets/avatar.6782d1566507d9b0f287.png" width="500" align='left' margin-left="13px" alt="Avatar-Sierra">
+    <img src="./assets/avatar.6782d1566507d9b0f287.png" width="400" align='left' style="margin-left: 50px;" alt="Avatar-Sierra">
 
 ```python
 # Public Information
