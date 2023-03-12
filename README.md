@@ -94,7 +94,6 @@ print(astral_card(name))
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sesierras&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="sesierras" width="350"/>
 </p> 
     
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&color=white)
 
 
 <p align="center">
