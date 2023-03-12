@@ -6,10 +6,18 @@
 
 
 <div align="center">
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" style="float: left; margin-right: 50px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&color=C1FFF6&center=true&width=435&vCenter=true&lines=Hi+there%2C+I'm+Sierra;%0AFull-Stack+Developer;%0AData+Analyst;%0AData+Science+Enthusiast;%0AArt+Lover;%0ABiologist;%0AOpen+source+enthusiast;%0AIntroverted;%0AVegetarian;%0ADog+lover;%0ALinux+enthusiast;%0ACourse+fanatic;%0APhilosophy+lover;%0ABotanist;%0APlant+lord;%0A" alt="Typing SVG" style="float: right;">
+  <div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" style="margin-right: 80px; margin-bottom: 70px; margin-left: 100px;">
+    <div style="position: relative;">
+      <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&color=C1FFF6&center=true&width=435&vCenter=true&lines=Hi+there%2C+I'm+Sierra;%0AFull-Stack+Developer;%0AData+Analyst;%0AData+Science+Enthusiast;%0AArt+Lover;%0ABiologist;%0AOpen+source+enthusiast;%0AIntroverted;%0AVegetarian;%0ADog+lover;%0ALinux+enthusiast;%0ACourse+fanatic;%0APhilosophy+lover;%0ABotanist;%0APlant+lord;%0A;%0AFeminist" alt="Typing SVG" style="position: absolute; top: 50%; left: 100px; color: blue;">
+    </div>
+    <div style="position: relative;">
+     <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&color=00BFFF&center=true&width=435&vCenter=true&lines=Hi+there%2C+I'm+Sierra;%0AFull-Stack+Developer;%0AUX/UI+Design+Student;%0ADog+coach;%0AArt+Enthusiast;%0ALanguage+Lover;%0AFuture+UX/UI+Designer;%0ABotany+student;%0AYoga+teacher;Hi+there%2C+I'm+Sierra; %0ANonbinary;%0ANeurodivergent+%F0%9F%A6%93" alt="Typing SVG" style="position: absolute; top: 50%; left: 100px; color: blue; animation-duration: 10s;">
+    </div>
+  </div>
+</div>
+
+<h3 align="center"> Contact me </h3>
   </a>
 </div>
 </div>
@@ -85,9 +93,6 @@ print(astral_card(name))
 
 
 
-![snake gif](https://github.com/sesierras/sesierras/blob/output/github-contribution-grid-snake.svg)
-
-
 <h3 align="center">Github Statistics</h3>
  <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sesierras&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="sesierras" width="395"/>
@@ -118,12 +123,12 @@ print(astral_card(name))
     
     
     
- <h3 align="center">Hobbies</h3>
+ <h3 align="center">Gift & Music</h3>
 <table align="center">
   <tr>
     <td>
       <div align="center">
-       <img src="https://media.giphy.com/media/fXtFLN5VpWqMUt8LLG/giphy.gif" width="500">
+       <img src="https://media.giphy.com/media/fXtFLN5VpWqMUt8LLG/giphy.gif" width="400">
         <br/>
       </div>
     </td>
@@ -137,7 +142,3 @@ print(astral_card(name))
   </tr>
 </table> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A637E&height=120&section=footer&animation=twinkling"/>
-    
-    
-    
-
