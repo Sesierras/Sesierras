@@ -23,16 +23,17 @@
 </div>
 <p align="center">
 <p align='center'>
-<a href="https://www.linkedin.com/in/sesierras"><img height="40" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" target="_blank">
-   </a>
+<a href="https://www.linkedin.com/in/sesierras"><img height="40" alt="LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank">
+</a>
 <a href="https://open.spotify.com/user/2147jkds6pjf5qdcd3dm7qika?si=0696ed7949fc40fe"><img height="40" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" title="Spotify-Sesierras" target="_blank">
+<a href="https://soundcloud.com/sebastian-sierra-879410625"><img height="40" src="https://www.vectorlogo.zone/logos/soundcloud/soundcloud-icon.svg" title="SoundCloud-Sesierras" target="_blank"></a>
    </a>
   <a href="mailto:sesierras@unal.edu.co"><img alt="gmail-Sesierras" title="Gmail" height="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank">
   </a>
-<a href="https://api.whatsapp.com/send?phone=573193197976" alt="WhatsApp-Sesierras" title="WhatsApp" target="_blank">
-      <img height="40" src="https://user-images.githubusercontent.com/28950541/147156845-9db3d6e5-994c-4287-9d9a-43f999588ef2.png">
-   </a>
 
+<a href="https://api.whatsapp.com/send?phone=573193197976" alt="WhatsApp-Sesierras" title="WhatsApp" target="_blank">
+   <img height="40" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-square2-512.png" style="background-color: transparent;">
+</a>
   </a>
   <div>
     <div align="center">
